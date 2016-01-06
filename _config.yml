@@ -1,0 +1,28 @@
+name: Rajeev
+favicon: null
+layout_spectrum: 0.3434847597964108
+typography_spectrum: 0.5627948848996311
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9559264562558383
+  lightness: 0.6348034066613764
+  saturation: 0.8964501956943423
+  rhythmicContrast: 0.7995091807097197
+purpose: []
