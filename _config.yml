@@ -1,7 +1,7 @@
 name: Rajeev
 favicon: null
-layout_spectrum: 0.3434847597964108
-typography_spectrum: 0.5627948848996311
+layout_spectrum: 0.14386
+typography_spectrum: 0.55082
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#FAD8D6'
   brandStrength: 0.9559264562558383
   lightness: 0.6348034066613764
-  saturation: 0.8964501956943423
+  saturation: 1
   rhythmicContrast: 0.7995091807097197
 purpose: []
